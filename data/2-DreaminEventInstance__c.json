@@ -8,6 +8,23 @@
         "type": "DreaminEventInstance__c",
         "referenceId": "DreaminEventInstanceRef1"
       },
+      "Name": "Old Dreamin Event 2023",
+      "DreaminEvent__c": "DreaminEventRef1",
+      "EventDate__c": "2023-06-01",
+      "Location__Street__s": null,
+      "Location__City__s": null,
+      "Location__PostalCode__s": null,
+      "Location__StateCode__s": null,
+      "Location__CountryCode__s": null,
+      "Location__Latitude__s": null,
+      "Location__Longitude__s": null,
+      "Location__GeocodeAccuracy__s": null
+    },
+    {
+      "attributes": {
+        "type": "DreaminEventInstance__c",
+        "referenceId": "DreaminEventInstanceRef2"
+      },
       "Name": "YeurDreamin 2023",
       "DreaminEvent__c": "DreaminEventRef2",
       "EventDate__c": "2023-06-16",
@@ -23,7 +40,7 @@
     {
       "attributes": {
         "type": "DreaminEventInstance__c",
-        "referenceId": "DreaminEventInstanceRef2"
+        "referenceId": "DreaminEventInstanceRef3"
       },
       "Name": "London's Calling 2022",
       "DreaminEvent__c": "DreaminEventRef3",
@@ -40,7 +57,7 @@
     {
       "attributes": {
         "type": "DreaminEventInstance__c",
-        "referenceId": "DreaminEventInstanceRef3"
+        "referenceId": "DreaminEventInstanceRef4"
       },
       "Name": "French Touch Dreamin 2023",
       "DreaminEvent__c": "DreaminEventRef4",
@@ -57,7 +74,7 @@
     {
       "attributes": {
         "type": "DreaminEventInstance__c",
-        "referenceId": "DreaminEventInstanceRef4"
+        "referenceId": "DreaminEventInstanceRef5"
       },
       "Name": "London's Calling 2023",
       "DreaminEvent__c": "DreaminEventRef3",
