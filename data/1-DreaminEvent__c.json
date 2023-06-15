@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "type": "DreaminEvent__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "DreaminEvent__c",
+        "referenceId": "DreaminEventRef1"
+      },
+      "Name": "Old Dreamin Event",
+      "IsActive__c": false
+    },
+    {
+      "attributes": {
+        "type": "DreaminEvent__c",
+        "referenceId": "DreaminEventRef2"
+      },
+      "Name": "YeurDreamin",
+      "IsActive__c": true
+    },
+    {
+      "attributes": {
+        "type": "DreaminEvent__c",
+        "referenceId": "DreaminEventRef3"
+      },
+      "Name": "London's Calling",
+      "IsActive__c": true
+    },
+    {
+      "attributes": {
+        "type": "DreaminEvent__c",
+        "referenceId": "DreaminEventRef4"
+      },
+      "Name": "French Touch Dreamin",
+      "IsActive__c": true
+    }
+  ]
+}

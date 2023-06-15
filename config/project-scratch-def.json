@@ -1,0 +1,13 @@
+{
+  "orgName": "Texeï",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "customAddressFieldSettings": {
+      "enableCustomAddressField": true
+    }
+  }
+}

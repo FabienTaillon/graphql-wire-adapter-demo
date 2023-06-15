@@ -1,0 +1,7 @@
+<template>
+    <div class="slds-box slds-theme_default">
+        <div>Info from Wire: {recordName}</div>
+        <lightning-input type="text" label="Name" lwc:ref="eventname" max-length="40" value={recordName}></lightning-input>
+        <lightning-button variant="brand" label="Save" title="Save" onclick={handleSave} class="slds-m-top_small block"></lightning-button>
+    </div>
+</template>

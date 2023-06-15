@@ -1,0 +1,75 @@
+{
+  "attributes": {
+    "type": "DreaminEventInstance__c"
+  },
+  "records": [
+    {
+      "attributes": {
+        "type": "DreaminEventInstance__c",
+        "referenceId": "DreaminEventInstanceRef1"
+      },
+      "Name": "YeurDreamin 2023",
+      "DreaminEvent__c": "DreaminEventRef2",
+      "EventDate__c": "2023-06-16",
+      "Location__Street__s": null,
+      "Location__City__s": "Brussels",
+      "Location__PostalCode__s": null,
+      "Location__StateCode__s": null,
+      "Location__CountryCode__s": "BE",
+      "Location__Latitude__s": null,
+      "Location__Longitude__s": null,
+      "Location__GeocodeAccuracy__s": null
+    },
+    {
+      "attributes": {
+        "type": "DreaminEventInstance__c",
+        "referenceId": "DreaminEventInstanceRef2"
+      },
+      "Name": "London's Calling 2022",
+      "DreaminEvent__c": "DreaminEventRef3",
+      "EventDate__c": "2022-06-10",
+      "Location__Street__s": null,
+      "Location__City__s": "London",
+      "Location__PostalCode__s": null,
+      "Location__StateCode__s": null,
+      "Location__CountryCode__s": "GB",
+      "Location__Latitude__s": null,
+      "Location__Longitude__s": null,
+      "Location__GeocodeAccuracy__s": null
+    },
+    {
+      "attributes": {
+        "type": "DreaminEventInstance__c",
+        "referenceId": "DreaminEventInstanceRef3"
+      },
+      "Name": "French Touch Dreamin 2023",
+      "DreaminEvent__c": "DreaminEventRef4",
+      "EventDate__c": "2023-11-30",
+      "Location__Street__s": null,
+      "Location__City__s": "Paris",
+      "Location__PostalCode__s": null,
+      "Location__StateCode__s": null,
+      "Location__CountryCode__s": "FR",
+      "Location__Latitude__s": null,
+      "Location__Longitude__s": null,
+      "Location__GeocodeAccuracy__s": null
+    },
+    {
+      "attributes": {
+        "type": "DreaminEventInstance__c",
+        "referenceId": "DreaminEventInstanceRef4"
+      },
+      "Name": "London's Calling 2023",
+      "DreaminEvent__c": "DreaminEventRef3",
+      "EventDate__c": "2023-06-09",
+      "Location__Street__s": null,
+      "Location__City__s": "London",
+      "Location__PostalCode__s": null,
+      "Location__StateCode__s": null,
+      "Location__CountryCode__s": "GB",
+      "Location__Latitude__s": null,
+      "Location__Longitude__s": null,
+      "Location__GeocodeAccuracy__s": null
+    }
+  ]
+}
