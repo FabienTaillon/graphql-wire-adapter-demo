@@ -29,7 +29,6 @@ export default class UpdateDreaminEvent extends LightningElement {
             }
           }
         `,
-        variables: "$variables",
         operationName: "dreaminEvent"
       })
       graphqlQueryResult({ data, errors }) {
