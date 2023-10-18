@@ -13,5 +13,7 @@ echo '##### IMPORTING DUMMY DATA #####'
 sfdx texei:data:import --inputdir ./data --targetusername $SCRATCH_ALIAS
 echo '##### CLEANING STANDARD LAYOUTS #####'
 sfdx texei:source:layouts:cleanorg --targetusername $SCRATCH_ALIAS
+echo '##### ENABLE LWC DEBUG MODE #####'
+sf texei debug lwc enable
 echo '##### OPENING SCRATCH ORG #####'
 sfdx org:open --path lightning/n/Dreamin_Event_Explorer --target-org $SCRATCH_ALIAS
